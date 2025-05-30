@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About Me
+layout: default
+title: Welcome
 ---
 
 # Hello! 👋
