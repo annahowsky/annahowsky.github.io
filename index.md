@@ -9,6 +9,11 @@ title: Welcome
 I'm building cool things here.
 
 
-📧 Email: annahowsky *at* gmail *dot* com
 
-![my family](/assets/images/imagename.jpg "Two cats")
+
+<img src="assets/cat-photo" width="500">
+
+*My family's two cats.*
+
+
+📧 Email: annahowsky *at* gmail *dot* com
