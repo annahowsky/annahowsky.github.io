@@ -4,8 +4,19 @@ title: Welcome
 ---
 # Hello! 👋
 ## I'm Anna!
-<img src="assets/anna_2023.png">
-I'm building cool things here.
-<img src="assets/cat-photo.png" width="500">
+<img src="assets/anna_2025.png" width="500" alt="Profile photo of Anna">
+
+I'm building cool things here. 
+
+[About](pages/about.md) | [Resume](pages/resume.md) | [Projects](pages/projects.md)
+<br>
+<br>
+<br>
+<img src="assets/cat-photo.png" width="500" alt="Two cats laying in bed together">
+
+
 *My family's two cats.*
-📧 Email: annahowsky *at* gmail *dot* com
+<br>
+<br>
+<br>
+📧 Email: annahowsky *at* gmail *dot* com 
