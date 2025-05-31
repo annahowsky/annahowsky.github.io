@@ -9,7 +9,7 @@ Some highlights from my 2025 year in hiking!
 ###### *May 25, 2025*
 The coldest cold plunge Raiza and I have ever done!
 
-<img src="../assets/hiking/mason.png" width="300" alt="Raiza and Anna at Mason Lake">
+<img src="../assets/hiking/mason.png" width="300" title="Raiza and Anna at Mason Lake" alt="Raiza and Anna at Mason Lake">
 
 
 ### Hike stats:
@@ -22,7 +22,7 @@ elevation gain: 2,420 feet
 ###### *April 26, 2025*
 A beautiful day for hiking and paragliding!
 
-<img src="../assets/hiking/oyster.png" width="400" alt="Meagan, Anna, and Mai Thao at Oyster Dome">
+<img src="../assets/hiking/oyster.png" width="400" title="Meagan, Anna, and Mai Thao at Oyster Dome" alt="Meagan, Anna, and Mai Thao at Oyster Dome">
 
 
 ### Hike stats:
