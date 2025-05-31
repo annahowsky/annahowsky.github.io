@@ -13,6 +13,7 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 - Oversee procurement, travel, reimbursements, and budget tracking in compliance with UW, state, federal, and sponsor policies.
 - Coordinate grant proposal preparation and technical reporting in collaboration with faculty, researchers, and grant managers.
 - Act as liaison to external partners, funding agencies, and university departments; support lab communications and event logistics.
+
 ### Project Appointment
 #### University of Washington
 ###### November 2021 – November 2022
@@ -22,6 +23,7 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 - Assisted with website content maintenance for lab-related information.
 - Supported various projects across the MISL and SAMPL labs.
 - Coordinated with lab managers, program specialists, and grant managers at the Allen School on projects and budgetary compliance.
+
 ### Program Coordinator
 #### University of Washington
 ###### September 2018 - November 2021
@@ -31,6 +33,7 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 - Coordinated logistics for program activities such as meetings, conferences, and banquets.
 - Organized events and managed travel arrangements and accommodations for participants.
 - Assisted with the grant proposal submission process.
+
 ### Program Coordinator
 #### University of Washington
 ###### December 2017 – September 2018
@@ -38,6 +41,7 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 - Led initiatives to reduce waste and improve cost efficiency through consulting, process design, and project supervision.
 - Conducted financial analysis and materials management to enhance operational efficiency.
 - Delivered customer service to support successful LEAN adoption across departments.
+
 ### Undergraduate Researcher
 #### Rice University - Department of Chemical and Biomolecular Engineering
 ###### June 2015 – May 2017	
@@ -46,5 +50,7 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 - Co-authored and published two peer-reviewed articles:
   - *“Static adsorption of an ethoxylated nonionic surfactant on carbonate minerals”, Langmuir 2016*
   - *“Characterizing Adsorption of Associating Surfactants on Carbonate Surfaces”, Journal of Colloid and Interface Science 2018*
+
+<br>
 
 [Homepage](../index.md)
