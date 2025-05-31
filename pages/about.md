@@ -8,7 +8,7 @@ I'm Anna.
 <img src="../assets/anna_2025.png" width="500" alt="Photo of Anna at TeamLabs Borderless">
 
 I am a Seattle-based dabbler with an enthusiasm for just about anything. My current hobbies are weightlifting, gardening, swimming, and hiking. 
-Some of my recent escapades include crochet, climbing, cooking, singing, playing piano, birdwatching, language learning, and so on....
+Some of my recent escapades include crochet, climbing, cooking, singing, playing piano, birdwatching, language learning, video games and so on....
 
 I'm a lifelong learner and always ready to dive headfirst into the next rabbit hole.
 
