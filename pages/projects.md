@@ -3,6 +3,11 @@ layout: default
 title: Welcome
 ---
 # Projects
-Incoming!
+More projects incoming!
 
 [Hiking Blog](hiking.md)
+<br><br><br>
+
+
+
+[Homepage](../index.md)

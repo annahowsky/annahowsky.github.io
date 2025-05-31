@@ -4,7 +4,7 @@ title: Welcome
 ---
 # Hello! 👋
 ## I'm Anna!
-<img src="assets/anna_2025.png" width="500" alt="Profile photo of Anna">
+<img src="assets/anna_2023.png" width="500" alt="Profile photo of Anna">
 
 I'm building cool things here. 
 
