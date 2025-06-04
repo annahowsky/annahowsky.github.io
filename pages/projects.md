@@ -7,7 +7,7 @@ More projects incoming!
 
 [Hiking Blog](hiking.md)
 
-[Guessing Game](../projects/guessing.md)
+[Guessing Game](projects/guessing.md)
 <br><br><br>
 
 
