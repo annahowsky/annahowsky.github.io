@@ -1,3 +1,9 @@
+---
+layout: default
+title: Guessing Game
+---
+
+## My Python Guessing Game
 ```python
 import random
 winning_number = random.randint(1, 10)
