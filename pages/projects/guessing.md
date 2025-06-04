@@ -24,6 +24,6 @@ else:
     print(f"Sorry, the number was {winning_number}. Try again next time!")
 ```
 
-Back to [Projects](projects.md)
+Back to [Projects](../projects.md)
 
-[Homepage](../index.md)
+[Homepage](../../index.md)
