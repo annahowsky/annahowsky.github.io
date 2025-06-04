@@ -19,9 +19,11 @@ while attempts < guess_limit:
     attempts += 1
     if guess == winning_number:
         print("Congratulations, you guessed it!")
-        break 
+        break
+    elif attempts < guess_limit:
+        print("Please guess again.")
 else:
-    print(f"Sorry, the number was {winning_number}. Try again next time!")
+        print(f"Sorry, the number was {winning_number}. Try again next time!")
 ```
 
 Back to [Projects](../projects.md)
