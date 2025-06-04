@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: Checkout some of my projects here
+description: Check out some of my projects here
 ---
 More projects incoming!
 

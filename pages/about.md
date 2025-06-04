@@ -1,10 +1,8 @@
 ---
 layout: default
 title: About Me
-description: Learn more about me
+description: I'm Anna!
 ---
-
-I'm Anna.
 
 <img src="../assets/anna_2025.png" width="500" title="Photo of Anna at TeamLabs Borderless" alt="Photo of Anna at TeamLabs Borderless">
 
