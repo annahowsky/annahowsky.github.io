@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+description: 2025 Hikes
 ---
 # Hiking Blog
 Some highlights from my 2025 year in hiking!

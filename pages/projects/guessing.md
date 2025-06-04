@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Guessing Game
+description: Guessing a number between 1 and 10!
+
 ---
 
 ## My Python Guessing Game

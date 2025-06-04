@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+description: Learn more about me
 ---
 # About Me
 I'm Anna.

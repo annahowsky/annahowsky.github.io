@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+description: Anna Wehowsky's 2025 Resume
 ---
 # Resume
 ## Education
