@@ -6,6 +6,8 @@ title: Welcome
 More projects incoming!
 
 [Hiking Blog](hiking.md)
+
+[Guessing Game](../projects/guessing.html)
 <br><br><br>
 
 

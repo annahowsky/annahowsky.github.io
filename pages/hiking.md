@@ -6,10 +6,10 @@ title: Welcome
 Some highlights from my 2025 year in hiking!
 
 ## Hikes in this post:
-- [Mason Lake / Ira Springs](#mason-lake--ira-springs)
+- [Mason Lake and Ira Springs](#mason-lake-and-ira-springs)
 - [Oyster Dome](#oyster-dome)
 
-## Mason Lake / Ira Spings
+## Mason Lake and Ira Spings
 ###### *May 25, 2025*
 The coldest cold plunge Raiza and I have ever done!
 
