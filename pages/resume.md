@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Resume
 description: Anna Wehowsky's 2025 Resume
 ---
-# Resume
 ## Education
 Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May 2017
 ## Work Experience

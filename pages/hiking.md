@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Welcome
-description: 2025 Hikes
+title: Hiking Blog
+description: Some highlights from my 2025 year in hiking
 ---
-# Hiking Blog
-Some highlights from my 2025 year in hiking!
-
 ## Hikes in this post:
 - [Mason Lake and Ira Springs](#mason-lake-and-ira-springs)
 - [Oyster Dome](#oyster-dome)
@@ -28,7 +25,7 @@ elevation gain: 2,420 feet
 
 With the promise of a lake at the end of this hike, we set out to do one thing: plunge.
 
-Luckily, it was a sunny day, otherwise, the slight breeze and sub-70 temperature would have made us
+Luckily, it was a sunny day, otherwise the slight breeze and sub-70 temperature would have made us
 think twice. Raiza and I hit the trail with some delicious fruit and snacks burning a hole in our packs.
 We made our way up to Mason lake, stopping only briefly to admire the views of Mt. Rainier. 
 
@@ -37,9 +34,9 @@ Nothing  dangerous to traverse, but perhaps a hint that our lake was going to be
 Once we finally caught a glimpse of the lake, snow kissing the far edges, we knew we had to act fast.
 Still warm from the hike in, we quickly got in before logic could speak. 
 
-The plunge was shocking. My whole body was numb, but the sun quickly worked its magic.
+The plunge was shocking. My whole body went numb, but the sun quickly worked its magic.
 We stayed at the lakeshore for about an hour, basking in the sun and enjoying our lunch.
-Raiza made a beautiful homemade strawberry mochi for us to share. 
+Raiza had made a beautiful homemade strawberry mochi for us to share. 
 
 During our entire break, only one other soul got in the water: a brave golden retriever.
 Curious hikers asked if the water was cold. We could only reply with a resounding "Yes!".
@@ -69,19 +66,19 @@ elevation gain: 1,050 feet
 <img src="../assets/hiking/oyster.png" width="400" title="Meagan, Anna, and Mai Thao at Oyster Dome" alt="Meagan, Anna, and Mai Thao at Oyster Dome">
 
 
-The three of us set out for our first hike of the season. It's a great day to stretch the legs and
-get ready for what is shaping up to be a great summer. Not quite warm enough to shed the layers,
+The three of us set out for our first hike of the season. It was a great day to stretch the legs and
+get ready for a great summer. Not quite warm enough to shed the layers,
 but not too cold for the soul. My kind of weather.
 
 The trail winds through the dappled shade of the
 old growth trees. At the top of the dome, we were greeted by full
 sun and sweeping views of the Puget Sound. 
-The trail was alive with lots of fellow hikers of all ages, with their dogs in tow, and paragliders
-catching the breeze at the top of the dome.
+The trail was alive with lots of fellow hikers of all ages, their dogs in tow, and paragliders
+catching the breeze at the top.
 
 At the top, a guy hiking with his son and his friend offered everyone watermelon slices.
-What a treat! I looked through my snack stash to see what I could offer back
-and the pickings were slim. Unhealthily, I offered him back some of my nerds clusters. 
+What a treat! I looked through my snack stash to see what I could offer in return,
+but the pickings were slim. Sheepishly, I offered him back some of my nerds gummy clusters. 
 It's not quite the same vibe, but every gram of sugar counts on the trail.
 
 We headed back down the dome and made our way home where Maaz and the boys were firing up the grill.

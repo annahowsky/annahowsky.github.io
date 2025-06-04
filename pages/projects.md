@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Projects
 description: Checkout some of my projects here
 ---
-# Projects
 More projects incoming!
 
 [Hiking Blog](hiking.md)
