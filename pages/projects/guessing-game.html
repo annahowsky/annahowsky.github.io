@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Number Guessing Game</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+    #game-container {
+      max-width: 400px;
+      margin: auto;
+    }
+    input[type="number"] {
+      padding: 8px;
+      font-size: 16px;
+      width: 100px;
+    }
+    button {
+      padding: 8px 16px;
+      font-size: 16px;
+      margin-left: 10px;
+    }
+    #message {
+      margin-top: 20px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="game-container">
+    <h1>Guess a Number (1–10)</h1>
+    <input type="number" id="guessInput" min="1" max="10" />
+    <button onclick="submitGuess()">Submit</button>
+    <p id="message"></p>
+  </div>
+
+  <script>
+    const winningNumber = Math.floor(Math.random() * 10) + 1;
+    const guessLimit = 3;
+    let attempts = 0;
+    let gameOver = false;
+
+    function submitGuess() {
+      if (gameOver) return;
+
+      const input = document.getElementById("guessInput");
+      const message = document.getElementById("message");
+      const guess = parseInt(input.value);
+
+      if (isNaN(guess) || guess < 1 || guess > 10) {
+        message.textContent = "Please enter a number between 1 and 10.";
+        return;
+      }
+
+      attempts++;
+
+      if (guess === winningNumber) {
+        message.textContent = "You win! 🎉";
+        gameOver = true;
+      } else if (attempts >= guessLimit) {
+        message.textContent = `Sorry, you lose. The number was ${winningNumber}.`;
+        gameOver = true;
+      } else {
+        message.textContent = `Try again. You have ${guessLimit - attempts} guess(es) left.`;
+      }
+
+      input.value = "";
+    }
+  </script>
+</body>
+</html>

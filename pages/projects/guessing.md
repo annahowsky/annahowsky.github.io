@@ -5,8 +5,7 @@ description: Guessing a number between 1 and 10 in Python!
 
 ---
 
-## My Python Guessing Game
-Here's the script for a simple guessing game. The user will get three chances to input their guess at the secret number!
+Here's the Python script for a simple guessing game. The user will get three chances to input their guess at the secret number!
 <br>
 
 ```python
