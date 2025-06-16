@@ -10,9 +10,10 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 #### University of Washington
 ###### November 2022 - Present
 - Manage daily operations for MISL and SAMPL research labs focused on computer science, machine learning, and synthetic biology.
-- Oversee procurement, travel, reimbursements, and budget tracking in compliance with UW, state, federal, and sponsor policies.
+- Oversee procurement, travel, reimbursements, and purchasing using Workday and UW systems; resolve administrative issues efficiently while maintaining audit readiness.
 - Coordinate grant proposal preparation and technical reporting in collaboration with faculty, researchers, and grant managers.
-- Act as liaison to external partners, funding agencies, and university departments; support lab communications and event logistics.
+- Contribute to lab planning, resource allocation, and operational process improvements, including the implementation of tracking systems and digital workflows.
+- Serve as a liaison among faculty, researchers, administrative offices, and external collaborators; facilitate lab communications and support internal and public-facing events.
 
 ### Project Appointment
 #### University of Washington
