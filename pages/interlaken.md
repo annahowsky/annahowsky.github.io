@@ -22,6 +22,7 @@ The rock here tells an ancient tale about this landmass's origin. The basalt for
 This is truly a special place for life to evolve, as living here presents its own challenges. I noticed that everything can change here in a matter of minutes. The weather quickly turned from sunny and warm to cloudy, rainy, windy, harsh. Beyond that, anything living in the tide pools must adapt to the ever-changing tides, balancing somewhere between living exposed on the bare rocks to being battered and completely inundated with fast-moving salt water. Tidepool species are tough!
 
 Some creatures I saw:
+
 <img src="../assets/interlaken/blood%20star.JPG" title="Pacific Blood Star - Henricia leviuscula" alt="Pacific Blood Star - Henricia leviuscula">
 
 Pacific Blood Star
@@ -34,13 +35,13 @@ Pacific Purple Sea Urchin
 Strongylocentrotus purpuratus
 
 
-<img src="../assets/interlaken/green%20anemone.JPG" title="Giant Green Anemone - Anthopleura xanthogrammica" alt="Giant Green Anemone - Anthopleura xanthogrammica">
+<img src="../assets/interlaken/green%20anemone.jpg" title="Giant Green Anemone - Anthopleura xanthogrammica" alt="Giant Green Anemone - Anthopleura xanthogrammica">
 
 Giant Green Anemone
 Anthopleura xanthogrammica
 
 
-<img src="../assets/interlaken/star.JPG" title="Six-rayed Star - Leptasterias hexactis" alt="Six-rayed Star - Leptasterias hexactis">
+<img src="../assets/interlaken/star.jpg" title="Six-rayed Star - Leptasterias hexactis" alt="Six-rayed Star - Leptasterias hexactis">
 
 Six-rayed Star
 Leptasterias hexactis
@@ -49,15 +50,80 @@ I wonder if these animals prefer certain tide pools over others. I noticed that 
 
 Here are some sketches from the day:
 
-<img src="../assets/interlaken/page1.JPG" title="excerpt from my handwritten notes" alt="excerpt from my handwritten notes">
+<img src="../assets/interlaken/page1.jpg" title="excerpt from my handwritten notes" alt="excerpt from my handwritten notes">
+
 Later on, I found out that the "very cute" animal was a chiton.
 
-<img src="../assets/interlaken/page2.JPG" title="excerpt from my handwritten notes" alt="excerpt from my handwritten notes">
+<img src="../assets/interlaken/page2.jpg" title="excerpt from my handwritten notes" alt="excerpt from my handwritten notes">
+
 An eagle watches over us today.
 
 I've never really tried sketching before, so I found it a little bit difficult to capture things. Since it started to rain heavily, I wasn't able to write down as many notes as I'd like. For the landscape: It reminds me of (honestly) my cat on the top of his 8-foot high perch, watching me in my apartment. I notice that the eagle is very confident in his place. He seems unbothered by all the people looking at him. I wonder if he is curious about us like we are about him. I feel relaxed, ready to take in everything.
 
 Despite how tough these animals seem, it's always worth reflecting on how fragile the ecosystem is. As everything is dependent on the balance of predator/prey species, the collapse of one leads to the collapse of many. We learned about sea star wasting disease -- which led to the overall lack of sea stars we spotted in this area. As a result, mussel beds expanded leaving little space for other organisms. The mussels cling onto every surface we can see, which makes it impossible for anything else to latch onto a solid surface. One hypothesis is the waters are warming and contributing to the death of several species of sea star.
+
+<img src="../assets/interlaken/mussels.jpg" title="It's almost impossible to avoid mussel beds as you walk around" alt="It's almost impossible to avoid mussel beds as you walk around">
+
+It's almost impossible to avoid mussel beds as you walk around
+
+<img src="../assets/interlaken/mussels2.jpg" title="Mussels surround this tide pool" alt="Mussels surround this tide pool">
+
+Mussels surround this tide pool
+
+I wonder what factors are contributing to the sea star's death and if there is anything we can do to restore balance. 
+
+### Lake Crescent - Barnes Creek
+###### Location: Lake Crescent, Olympic Peninsula, WA
+###### Date: April 14th, 2019
+###### Time: 10:00 am
+###### Temperature: 45 deg F, cloudy and rainy
+
+Today we are headed out to a very familiar place, Lake Crescent and ultimately Marymere Falls. We begin the day with a study on the trees and plants in the forest. 
+
+The lowland forest consists of fir, cedar, hemlock, and alder trees. The presence and size of all of these trees indicate a varied age of the forest. While it is old growth, human disturbances in the early 1900s are hinted at by the red alders thriving in certain homestead-shaped patches. This shade intolerant species is an important pioneer for disturbed soil that is not rich in nutrients. It fixes nitrogen well, producing the conditions needed for other trees to begin to thrive. Soon, red alders will give way to Douglas fir and western hemlock, which we can also see in the forests surrounding Lake Crescent. Areas with these trees must be older, as they take longer to grow than the red alder.
+
+<img src="../assets/interlaken/page3.jpg" title="excerpt from my handwritten notes" alt="excerpt from my handwritten notes">
+
+Some notes on the "top three": Douglas fir, Western hemlock, Western redcedar
+
+After our crash course on trees, I hiked to Marymere Falls in the hopes of catching a glimpse of salamanders. I figured after yesterday's lesson in taking things slow, I should go to the falls again to catch some things I may have missed when I last came here.
+
+Here are some of the things I found:
+
+<img src="../assets/interlaken/lichen1.jpg" title="Algae side of lichen" alt="Algae side of lichen">
+
+<img src="../assets/interlaken/lichen2.jpg" title="Fungal side of lichen" alt="Fungal side of lichen">
+
+Tree Lungwort
+Lobaria pulmonaria
+
+<img src="../assets/interlaken/jelly.jpg" title="Alpine Jelly Cone - Guepiniopsis alpina" alt="Alpine Jelly Cone - Guepiniopsis alpina">
+
+Alpine Jelly Cone
+Guepiniopsis alpina
+
+<img src="../assets/interlaken/slug.jpg" title="Pacific Banana Slug - Ariolimax columbianus" alt="Pacific Banana Slug - Ariolimax columbianus">
+
+Pacific Banana Slug
+Ariolimax columbianus
+
+<img src="../assets/interlaken/page4.jpg" title="excerpt from my handwritten notes" alt="excerpt from my handwritten notes">
+
+Sketches of Pacific Wren (Troglodytes pacificus) and Douglas' Squirrel (Tamiasciurus douglasii)
+
+I forget which class reading mentions this, but after a walk here you can clearly see that even in death, organisms continue to give. Decaying matter and fallen debris from trees provide shelter for small organisms and even set up the next generation with nutrients to begin their growth. It mentions that there may even be more life in a dead tree than a live one.
+
+Several trees growing in a line hint at a nurse log, continuing a legacy that started when that log first began its life. Moss hangs low from tree branches at every level in the forest, living as an epiphyte that benefits from its lofty position. Lichen and its algae/fungus/cyanobacteria relationship tell us that this forest is doing well. The air is good and the soil is rich. There is even a giant underground network of life in fungal mycorrhiza, living and breathing almost completely without our awareness. There are hypotheses about what this fungal mat contributes to the trees that grow alongside them. We still don't fully understand the significance and interconnectedness of the forest.
+
+Life here is simply amazing. I feel as though I am only peering into a window and catching a glimpse of something much bigger than I can imagine. This is just a moment in time compared to the thousands of years behind all of the organisms living here. Long after I'm gone, there will hopefully be thousands more. I'm very grateful for the chance to see it now.
+
+<img src="../assets/interlaken/page5.jpg" title="My attempt at capturing the dense forest" alt="My attempt at capturing the dense forest">
+
+My attempt at capturing the dense forest
+
+<img src="../assets/interlaken/trail.jpg" title="Along Barnes Creek Trail" alt="Along Barnes Creek Trail">
+
+Along Barnes Creek Trail
 
 
 
