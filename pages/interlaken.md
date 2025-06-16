@@ -24,7 +24,8 @@ Today I came back to Interlaken, better prepared to stay here for a longer perio
 
 Things are looking green and beginning to bloom. The skunk cabbage has nearly doubled in size since the last time I was here about two weeks ago. Sword ferns also have new curly segments coming out of them.
 
-![img.png](../assets/interlaken/forest.png)
+
+<img src="../assets/interlaken/forest.png" title="Looking down the trail right outside the Hebrew school" alt="Looking down the trail right outside the Hebrew school">
 
 Looking down the trail right outside the Hebrew school
 
@@ -208,9 +209,13 @@ Here are some of the things I found:
 
 <img src="../assets/interlaken/lichen1.jpg" title="Algae side of lichen" alt="Algae side of lichen">
 
+Algae side of lichen
+
 <img src="../assets/interlaken/lichen2.jpg" title="Fungal side of lichen" alt="Fungal side of lichen">
 
-Tree Lungwort - Lobaria pulmonaria
+Fungal side of lichen
+
+Lichen - Tree Lungwort - Lobaria pulmonaria
 
 <img src="../assets/interlaken/jelly.jpg" title="Alpine Jelly Cone - Guepiniopsis alpina" alt="Alpine Jelly Cone - Guepiniopsis alpina">
 

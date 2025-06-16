@@ -1,17 +1,19 @@
 ---
 layout: default
 title: Projects
-description: Check out some of my projects here
+description: Check out some of my projects here, including my blog posts and writing projects.
 ---
-More projects incoming!
 
 [Hiking Blog](hiking.md)
-
-[Reflections in Interlaken Park for ENVIR 280 - 2019](interlaken.md)
 
 [Guessing Game](projects/guessing.md)
 
 [The Car Game](projects/car-game.md)
+
+<a href="https://interlakenwalks.blogspot.com/" target="_blank">Meditations in Interlaken - Blog (External Page)</a>
+
+<a href="https://www.inaturalist.org/people/annahowsky" target="_blank">My iNaturalist Observations (External Page)</a>
+
 <br><br><br>
 
 
