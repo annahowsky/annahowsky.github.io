@@ -10,7 +10,7 @@ description: Check out some of my projects here, including my blog posts and wri
 
 [The Car Game](projects/car-game.md)
 
-<a href="https://www.dropbox.com/scl/fi/s8swve5qmk5xclc1om9zi/O-Week-Book-Final-small.pdf?rlkey=16ocq7clm6yb5pnx6higla13z&st=uarq2i4b&dl=0 target="_blank">
+<a href="https://www.dropbox.com/scl/fi/s8swve5qmk5xclc1om9zi/O-Week-Book-Final-small.pdf?rlkey=16ocq7clm6yb5pnx6higla13z&st=uarq2i4b&dl=0" target="_blank">
   Rice University Orientation Week Booklet (opens file in new tab)
 </a>
 
