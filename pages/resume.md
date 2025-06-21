@@ -9,11 +9,12 @@ Bachelor of Science, Chemical and Biomolecular Engineering, Rice University, May
 ### Programs Specialist
 #### University of Washington
 ###### November 2022 - Present
-- Manage daily operations for MISL and SAMPL research labs focused on computer science, machine learning, and synthetic biology.
-- Oversee procurement, travel, reimbursements, and purchasing using Workday and UW systems; resolve administrative issues efficiently while maintaining audit readiness.
-- Coordinate grant proposal preparation and technical reporting in collaboration with faculty, researchers, and grant managers.
-- Contribute to lab planning, resource allocation, and operational process improvements, including the implementation of tracking systems and digital workflows.
-- Serve as a liaison among faculty, researchers, administrative offices, and external collaborators; facilitate lab communications and support internal and public-facing events.
+- Support complex research operations and federal grant management for labs in computer science, machine learning, and synthetic biology, ensuring compliance with funding agency guidelines and institutional policies.
+- Coordinate grant proposal development, contract documentation, and technical reporting in collaboration with faculty, researchers, legal, and grant administration teams.
+- Manage procurement, reimbursements, and vendor communications using enterprise systems (Workday and UW platforms), maintaining audit readiness and adherence to regulatory requirements.
+- Develop and implement operational tracking systems and digital workflows to monitor project milestones, budget allocations, and deliverables.
+- Act as a key liaison among researchers, legal, finance, and external partners to facilitate clear communication and timely contract administration.
+- Contribute to continuous process improvement efforts to streamline contract compliance and reporting workflows within a fast-paced, interdisciplinary environment.
 
 ### Project Appointment
 #### University of Washington
